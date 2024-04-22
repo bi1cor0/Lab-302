@@ -2,4 +2,5 @@ Hello world, this is a bit confusing...
 But I think I'm starting to get it. 
 OK one more change...
 Still here world lol
-Text update.    
+Trying to figure out this thing.
+Mastering trying to commit.   
